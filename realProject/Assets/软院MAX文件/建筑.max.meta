@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: 188f776c21da7b44694b0e8f0ac327dd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: PZ2
+    100002: rjxy-jz-006
+    100004: rjxy-jz-02
+    100006: rjxy-jz-03
+    100008: rjxy-jz-04
+    100010: rjxy-jz-05
+    100012: rjxy-jz-06
+    100014: rjxy-jz-07
+    100016: rjxy-jz-08
+    100018: rjxy-jz-09
+    100020: rjxy-jz-10
+    100022: rjxy-jz-11
+    100024: rjxy-jz-12
+    100026: rjxy-jz-13
+    100028: rjxy-jz-14
+    100030: rjxy-jz-15
+    100032: rjxy-jz-16
+    100034: rjxy-jz-17
+    100036: rjxy-jz-18
+    100038: rjxy-jz-19
+    100040: rjxy-jz-190
+    100042: rjxy-jz-20
+    100044: rjxy-jz-21
+    100046: rjxy-jz-22
+    100048: rjxy-jz-23
+    100050: rjxy-jz-24
+    100052: rjxy-jz-25
+    100054: rjxy-jz-26
+    100056: rjxy-jz-27
+    100058: rjxy-jz-28
+    100060: rjxy-jz-29
+    100062: rjxy-jz-30
+    100064: rjxy-jz-31
+    100066: rjxy-jz-32
+    100068: rjxy-jz-33
+    100070: //RootNode
+    400000: PZ2
+    400002: rjxy-jz-006
+    400004: rjxy-jz-02
+    400006: rjxy-jz-03
+    400008: rjxy-jz-04
+    400010: rjxy-jz-05
+    400012: rjxy-jz-06
+    400014: rjxy-jz-07
+    400016: rjxy-jz-08
+    400018: rjxy-jz-09
+    400020: rjxy-jz-10
+    400022: rjxy-jz-11
+    400024: rjxy-jz-12
+    400026: rjxy-jz-13
+    400028: rjxy-jz-14
+    400030: rjxy-jz-15
+    400032: rjxy-jz-16
+    400034: rjxy-jz-17
+    400036: rjxy-jz-18
+    400038: rjxy-jz-19
+    400040: rjxy-jz-190
+    400042: rjxy-jz-20
+    400044: rjxy-jz-21
+    400046: rjxy-jz-22
+    400048: rjxy-jz-23
+    400050: rjxy-jz-24
+    400052: rjxy-jz-25
+    400054: rjxy-jz-26
+    400056: rjxy-jz-27
+    400058: rjxy-jz-28
+    400060: rjxy-jz-29
+    400062: rjxy-jz-30
+    400064: rjxy-jz-31
+    400066: rjxy-jz-32
+    400068: rjxy-jz-33
+    400070: //RootNode
+    2100000: 07 - Default
+    2100002: 03 - Default
+    2100004: 04 - Default
+    2100006: 11 - Default
+    2100008: 12 - Default
+    2100010: 09 - Default
+    2100012: 08 - Default
+    2100014: 10 - Default
+    2100016: 14 - Default
+    2100018: 15 - Default
+    2100020: 16 - Default
+    2100022: 17 - Default
+    2100024: 18 - Default
+    2100026: Standard_12
+    2100028: 21 - Default
+    2100030: 23 - Default
+    2100032: 24 - Default
+    2100034: Standard_1
+    2100036: rjxy-jz-12_mtl
+    2100038: Standard_10
+    2100040: 06 - Default
+    2300000: PZ2
+    2300002: rjxy-jz-006
+    2300004: rjxy-jz-02
+    2300006: rjxy-jz-03
+    2300008: rjxy-jz-04
+    2300010: rjxy-jz-05
+    2300012: rjxy-jz-06
+    2300014: rjxy-jz-07
+    2300016: rjxy-jz-08
+    2300018: rjxy-jz-09
+    2300020: rjxy-jz-10
+    2300022: rjxy-jz-11
+    2300024: rjxy-jz-12
+    2300026: rjxy-jz-13
+    2300028: rjxy-jz-14
+    2300030: rjxy-jz-15
+    2300032: rjxy-jz-16
+    2300034: rjxy-jz-17
+    2300036: rjxy-jz-18
+    2300038: rjxy-jz-19
+    2300040: rjxy-jz-190
+    2300042: rjxy-jz-20
+    2300044: rjxy-jz-21
+    2300046: rjxy-jz-22
+    2300048: rjxy-jz-23
+    2300050: rjxy-jz-24
+    2300052: rjxy-jz-25
+    2300054: rjxy-jz-26
+    2300056: rjxy-jz-27
+    2300058: rjxy-jz-28
+    2300060: rjxy-jz-29
+    2300062: rjxy-jz-30
+    2300064: rjxy-jz-31
+    2300066: rjxy-jz-32
+    2300068: rjxy-jz-33
+    3300000: PZ2
+    3300002: rjxy-jz-006
+    3300004: rjxy-jz-02
+    3300006: rjxy-jz-03
+    3300008: rjxy-jz-04
+    3300010: rjxy-jz-05
+    3300012: rjxy-jz-06
+    3300014: rjxy-jz-07
+    3300016: rjxy-jz-08
+    3300018: rjxy-jz-09
+    3300020: rjxy-jz-10
+    3300022: rjxy-jz-11
+    3300024: rjxy-jz-12
+    3300026: rjxy-jz-13
+    3300028: rjxy-jz-14
+    3300030: rjxy-jz-15
+    3300032: rjxy-jz-16
+    3300034: rjxy-jz-17
+    3300036: rjxy-jz-18
+    3300038: rjxy-jz-19
+    3300040: rjxy-jz-190
+    3300042: rjxy-jz-20
+    3300044: rjxy-jz-21
+    3300046: rjxy-jz-22
+    3300048: rjxy-jz-23
+    3300050: rjxy-jz-24
+    3300052: rjxy-jz-25
+    3300054: rjxy-jz-26
+    3300056: rjxy-jz-27
+    3300058: rjxy-jz-28
+    3300060: rjxy-jz-29
+    3300062: rjxy-jz-30
+    3300064: rjxy-jz-31
+    3300066: rjxy-jz-32
+    3300068: rjxy-jz-33
+    4300000: rjxy-jz-33
+    4300002: rjxy-jz-32
+    4300004: rjxy-jz-31
+    4300006: rjxy-jz-30
+    4300008: rjxy-jz-29
+    4300010: rjxy-jz-28
+    4300012: rjxy-jz-27
+    4300014: rjxy-jz-26
+    4300016: rjxy-jz-25
+    4300018: rjxy-jz-24
+    4300020: rjxy-jz-23
+    4300022: rjxy-jz-22
+    4300024: rjxy-jz-21
+    4300026: rjxy-jz-20
+    4300028: rjxy-jz-19
+    4300030: rjxy-jz-18
+    4300032: rjxy-jz-17
+    4300034: rjxy-jz-16
+    4300036: rjxy-jz-15
+    4300038: rjxy-jz-14
+    4300040: rjxy-jz-13
+    4300042: rjxy-jz-12
+    4300044: rjxy-jz-11
+    4300046: rjxy-jz-10
+    4300048: rjxy-jz-09
+    4300050: rjxy-jz-08
+    4300052: rjxy-jz-07
+    4300054: rjxy-jz-06
+    4300056: rjxy-jz-05
+    4300058: rjxy-jz-04
+    4300060: rjxy-jz-03
+    4300062: rjxy-jz-02
+    4300064: rjxy-jz-190
+    4300066: PZ2
+    4300068: rjxy-jz-006
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
